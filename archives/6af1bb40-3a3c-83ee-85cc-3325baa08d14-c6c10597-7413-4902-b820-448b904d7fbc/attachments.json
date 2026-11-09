@@ -1,0 +1,96 @@
+{
+  "files": [
+    {
+      "sourceMessageId": "d74e1403-e36d-4efa-a5aa-2403d6da4d56",
+      "id": "file_0000000033e88209b82680d2fd50a866",
+      "name": "public.zip",
+      "mimeType": "application/x-zip-compressed",
+      "size": 17477649
+    },
+    {
+      "sourceMessageId": "28ca6bbd-b0e8-473c-bf93-50107d93a694",
+      "id": "file_00000000027c8206a1d1c8378f0a2277",
+      "name": "业务核实.txt",
+      "mimeType": "text/plain",
+      "size": 13682
+    },
+    {
+      "sourceMessageId": "6c07f471-c872-4905-9a4c-b0010740a1a3",
+      "id": "file_00000000691c820691db6ca5e58946ef",
+      "name": "业务核实(1).txt",
+      "mimeType": "text/plain",
+      "size": 15199
+    },
+    {
+      "sourceMessageId": "7aac8919-08fd-4a5f-9a7a-192531e45334",
+      "id": "file_0000000002fc82098e423c33a9cc782f",
+      "name": "业务核实(2).txt",
+      "mimeType": "text/plain",
+      "size": 13324
+    },
+    {
+      "sourceMessageId": "226d6512-a088-42eb-8758-e930ed2fd8e9",
+      "id": "file_00000000b4108209a85b623357c6533b",
+      "name": "业务核实(4).txt",
+      "mimeType": "text/plain",
+      "size": 7287
+    },
+    {
+      "sourceMessageId": "45e00021-b0a4-43a8-b00c-17baed5bdbe9",
+      "id": "file_00000000b3cc82069f777e5c1714ef30",
+      "name": "业务核实报告2.txt",
+      "mimeType": "text/plain",
+      "size": 18190
+    },
+    {
+      "sourceMessageId": "45e00021-b0a4-43a8-b00c-17baed5bdbe9",
+      "id": "file_000000005a8482098dbae7741ed02420",
+      "name": "业务核实报告1.txt",
+      "mimeType": "text/plain",
+      "size": 15669
+    },
+    {
+      "sourceMessageId": "97a77284-dda7-48ca-9893-49423801740a",
+      "id": "file_000000008da48209a3274cd27a7d52f8",
+      "name": "业务核实报告.txt",
+      "mimeType": "text/plain",
+      "size": 15693
+    },
+    {
+      "sourceMessageId": "421af8ce-d8bb-4a0b-87e9-df370c26a215",
+      "id": "file_000000005e9082098594112fb7cdda51",
+      "name": "业务核实报告(1).txt",
+      "mimeType": "text/plain",
+      "size": 8288
+    },
+    {
+      "sourceMessageId": "a5db257b-b6dc-4fee-beba-5f6a163049cd",
+      "id": "file_00000000c9d88209886efa8171fe8721",
+      "name": "业务核实报告(2).txt",
+      "mimeType": "text/plain",
+      "size": 9206
+    },
+    {
+      "sourceMessageId": "1f4a3c21-2c9e-4863-bf0b-2b7c866bf07f",
+      "id": "file_00000000b4608211b3ec6abd48ac3e22",
+      "name": "tables.zip",
+      "mimeType": "application/x-zip-compressed",
+      "size": 36796
+    },
+    {
+      "sourceMessageId": "4755c590-8e09-4fd2-86b7-1db46b60cda5",
+      "id": "file_000000000c0c82118746e42257504431",
+      "name": "数值差异与复算明细.md",
+      "mimeType": "text/markdown",
+      "size": 42726
+    },
+    {
+      "sourceMessageId": "ba95aecc-8dac-44ff-8f98-43b3ea2094bc",
+      "id": "file_00000000bf5482098e6f478a957fa302",
+      "name": "fleiss_kappa_realistic_data.csv",
+      "mimeType": "text/csv",
+      "size": 10622
+    }
+  ],
+  "media": []
+}

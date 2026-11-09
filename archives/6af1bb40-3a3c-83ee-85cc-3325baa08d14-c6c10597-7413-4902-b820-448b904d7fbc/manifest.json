@@ -1,0 +1,42 @@
+{
+  "formatVersion": 1,
+  "toolVersion": "1.0.0",
+  "title": "分支 · 实验数据源与修正",
+  "threadId": "c6c10597-7413-4902-b820-448b904d7fbc",
+  "shareUrl": "https://chatgpt.com/share/6af1bb40-3a3c-83ee-85cc-3325baa08d14",
+  "sourceSha256": "8ac0b8e2acd1235fc7fe0075b7ebc2c6650575a9428c6093c6ced09a6d7bef6a",
+  "sourceConversationId": "6af1bb40-3a3c-83ee-85cc-3325baa08d14",
+  "sourceCreatedAt": 1794227008.47062,
+  "importedAt": "2026-11-09T14:19:17.942Z",
+  "codexVersion": "0.163.0",
+  "sessionHome": "C:\\Users\\thelastede\\.codex",
+  "workspace": "C:\\Users\\thelastede",
+  "modelProvider": "custom",
+  "model": "gpt-6-astra",
+  "historyMode": "paginated",
+  "archiveDirectory": "C:\\Users\\thelastede\\Desktop\\软件\\ChatGPT-to-Codex\\archives\\6af1bb40-3a3c-83ee-85cc-3325baa08d14-c6c10597-7413-4902-b820-448b904d7fbc",
+  "rolloutPath": "C:\\Users\\thelastede\\.codex\\sessions\\2026\\11\\09\\rollout-2026-11-09T14-19-17-c6c10597-7413-4902-b820-448b904d7fbc.jsonl",
+  "resumeCommand": "codex resume c6c10597-7413-4902-b820-448b904d7fbc -C 'C:\\Users\\thelastede'",
+  "statistics": {
+    "branchNodes": 2069,
+    "userMessages": 48,
+    "assistantMessages": 100,
+    "commentaryMessages": 56,
+    "finalAnswers": 44,
+    "sourceTextCharacters": 135679,
+    "attachmentReferences": 13,
+    "mediaReferences": 0,
+    "toolRecords": 1252,
+    "redactedToolOutputs": 497
+  },
+  "verification": {
+    "codexVersion": "0.163.0",
+    "nativeMessages": 148,
+    "contextMessages": 148,
+    "turns": 48,
+    "exactMatch": true,
+    "listed": true,
+    "messageSha256": "4a3fcd2e01ebdab1bd67d47d1ed8bf18f57e7d27278147056224d6e49bc265b7",
+    "restartVerified": true
+  }
+}
